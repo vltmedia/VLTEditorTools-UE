@@ -27,8 +27,8 @@ Plugin toolset for Unreal Engine to extend filesystem usage, layout tools, and o
 # UI Windows
 
 - EUI_CopyDirectoryToContent
-  - 
   - User provides a path to a directory to copy to either the Content folder or Plugin folder of the currently opened project.
+  - Very useful for UE 5 Early Access for people having trouble with Marketplace UI not opening.
 
 # Blueprints
 
