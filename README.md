@@ -33,19 +33,22 @@ User provides a path to a directory to copy to either the Content folder or Plug
 Very useful for UE 5 Early Access for people having trouble with Marketplace UI not opening. Download Unreal marketplace items to another dummy 4.26 or earlier Unreal Engine project, then use this UI tool to copy that plugin/assets to you're current project.
 
 ### Screenshots
-<img src="imgs/EUI_CopyDirContent_03.png">
-
-
+<img src="imgs/EUI_CopyDirContent_03.png"  alt="UI">
 
 ### How to Load
 
-<img src="imgs/EUI_CopyDirContent_01.png">
+<img src="imgs/EUI_CopyDirContent_01.png" alt="Load with Right Click" >
 
-<img src="imgs/EUI_CopyDirContent_02.png">
+<img src="imgs/EUI_CopyDirContent_02.png" alt="Load with Toolbar" >
 <br>
 
 # Blueprints
 
-- Copy Directory to Directory
-  - Copy a **Source** directory to a **Target** directory, can also set the **Overwrite** checkbox if needed.
+### Copy Directory to Directory
+Copy a **Source** directory to a **Target** directory, can also set the **Overwrite** checkbox if needed.
+
+### Screenshots
+<img src="imgs/BP_CopyDirtoDir_01.png"  alt="Load Blueprint">
+<img src="imgs/BP_CopyDirtoDir_02.png"  alt="Blueprint UI">
+
 
