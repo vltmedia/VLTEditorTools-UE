@@ -26,9 +26,20 @@ Plugin toolset for Unreal Engine to extend filesystem usage, layout tools, and o
 
 # UI Windows
 
-- EUI_CopyDirectoryToContent
-  - User provides a path to a directory to copy to either the Content folder or Plugin folder of the currently opened project.
-  - Very useful for UE 5 Early Access for people having trouble with Marketplace UI not opening.
+## EUI_CopyDirectoryToContent
+### Usage
+User provides a path to a directory to copy to either the Content folder or Plugin folder of the currently opened project.
+
+Very useful for UE 5 Early Access for people having trouble with Marketplace UI not opening. Download Unreal marketplace items to another dummy 4.26 or earlier Unreal Engine project, then use this UI tool to copy that plugin/assets to you're current project.
+
+### Screenshots
+<img src="imgs/EUI_CopyDirContent_03.png">
+<br>
+### How to Load
+<img src="imgs/EUI_CopyDirContent_01.png">
+<br>
+<img src="imgs/EUI_CopyDirContent_02.png">
+<br>
 
 # Blueprints
 
